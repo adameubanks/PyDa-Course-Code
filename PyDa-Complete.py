@@ -5,7 +5,7 @@ import wolframalpha
 from espeak import espeak
 import wolframalpha
 
-app_id = "QPW4A9-UWRU8H9U8Y"
+app_id = "YOUR APP ID"
 client = wolframalpha.Client(app_id)
 
 class MyFrame(wx.Frame):
