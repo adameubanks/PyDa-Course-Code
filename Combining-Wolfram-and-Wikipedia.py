@@ -14,4 +14,3 @@ while True:
     except:
         #wikipedia
         print wikipedia.summary(input)
-
